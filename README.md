@@ -4,3 +4,4 @@ test read me
 
 
 test local2
+test hub 2
